@@ -1,1 +1,37 @@
-for the code to run we need to have pynput module on our system other wise it will not be 
+Keylogger in Python using pynput
+This Python script uses the pynput library to create a basic keylogger, capturing keystrokes and logging them to a file. It's essential to use this script responsibly and only on systems and networks where you have explicit permission.
+
+Features
+Key Logging: Captures keystrokes and logs them to a file.
+Configurable Output: Customizable output format, including handling of special keys.
+Easy to Use: Simple implementation with the pynput library.
+Usage
+Clone the repository to your local machine.
+
+bash
+Copy code
+git clone https://github.com/yourusername/Keylogger.git
+Install the required dependencies.
+
+bash
+Copy code
+pip install pynput
+Run the keylogger script.
+
+bash
+Copy code
+python keylogger.py
+To stop the keylogger, press Scroll Lock.
+
+Disclaimer
+This script is intended for educational and research purposes only. Unauthorized use of keyloggers may violate privacy and legal regulations. Ensure that you have explicit permission before using this script on any system.
+
+Important Notes
+Responsible Use: Use this script responsibly and ethically. Do not use it for any malicious purposes.
+Privacy: Respect the privacy of individuals, and only use the keylogger on systems where you have permission.
+Legal Compliance: Be aware of and comply with applicable laws and regulations regarding computer security and privacy.
+Contribution
+Contributions are welcome! Before contributing, please review our Contribution Guidelines to ensure a collaborative and positive environment.
+
+License
+This project is licensed under the MIT License.
