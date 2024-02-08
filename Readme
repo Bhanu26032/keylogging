@@ -10,7 +10,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/Keylogger.git
+git clone https://github.com/Bhanu26032/Keylogging.git
 Install the required dependencies.
 
 bash
@@ -20,7 +20,7 @@ Run the keylogger script.
 
 bash
 Copy code
-python keylogger.py
+python key.py
 To stop the keylogger, press Scroll Lock.
 
 Disclaimer
